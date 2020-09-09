@@ -44,8 +44,3 @@ export const Info = styled.Text`
   color: ${colors.gray};
   font-family: roboto_500;
 `;
-
-export const CategoryItem = styled.View`
-
-`;
-

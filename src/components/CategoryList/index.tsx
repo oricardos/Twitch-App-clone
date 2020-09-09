@@ -7,8 +7,7 @@ import {
         CategoryName,
         CategoryStatus,
         RedCircle,
-        Info,
-        CategoryItem
+        Info
       } from './styles';
 
 import data from './data';
